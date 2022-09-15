@@ -53,7 +53,7 @@ En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigo
 
 Para que este ejercicio funcione, necesitas los siguientes servicios
 - [HiveMQ](http://www.mqtt-dashboard.com/). Es un broker publico y no se necesita cuenta
-- [OpenWeatherMap](https://openweathermap.org). Servicio meteorológico gratuito. Se requiere cuenta, pero no se requiere ningun pago.
+- [OpenWeatherMap](https://openweathermap.org). Servicio meteorológico gratuito. Se requiere cuenta, pero no se requiere ningun pago
 
 
 ## Instrucciones
