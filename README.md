@@ -6,7 +6,7 @@ Este ejercicio consiste en realizar una estación de clima que realice lo siguie
 - Obtener información de temperatura y humedad relativa del sensor DHT11 con el micro controlador ESP32CAM
 - Enviar los valores del sensor por MQTT de forma local en JSON, con el objetivo de enviar varias variables en el mismo mensaje
 - Generar un Flow que obtenga por MQTT los valores enviados por el sensor y realice una gráfica del historico y muestre indicadores de valores instantaneos
-- Generar un flow, basado en el [flow 5](https://github.com/hugoescalpelo/flow5-openweather-g7), el cual realice lo siguiente:
+- Generar un flow, basado en la [estación climatica](https://github.com/hugoescalpelo/estacion-clima-nodered-api-temp-hum-uv-aqi/tree/main), el cual realice lo siguiente:
     - Obtener valor de temperatura, humedad relativa, Calidad del Aire, Indice Ultra Violeta por API de openweathermap.org
     - Graficar valores instantaneos e historicos del la ubicación actual en un dashboard
     - Suscribirse a un Broker MQTT público para poder obtener la información de datos climáticos de todos los alumnos del grupo 7
