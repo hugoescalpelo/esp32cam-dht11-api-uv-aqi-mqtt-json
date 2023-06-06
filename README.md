@@ -1,4 +1,4 @@
-# esp32cam-dht11-g7
+# esp32cam-dht11-api-uv-aqi-mqtt-json
 Este repositorio contiene los archivos para el ejercicio en clase que envía la información del DHT11 por MQTT a NodeRed.
 
 ## Introducción
